@@ -29,30 +29,61 @@ Atuação técnica no setor de Pesquisa & Desenvolvimento, com destaque para:
 
 ## 🛠️ Competências técnicas
 
-**Linguagens e Bibliotecas**:
-- Python (pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn, openpyxl, schedule, pywin32)
-- Markdown, LaTeX, HTML/CSS básico
+#### 🔹 Conhecimentos Relevantes 🔹
 
-**Ferramentas**:
-- Power BI (visualização de KPIs e dashboards interativos)
-- Git e GitHub
-- Excel avançado e automação via Python
-- Design Expert (DoE)
+- **Python Avançado**: domínio da linguagem e de bibliotecas como `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `statsmodels`, entre outras;
+- **Power BI Intermediário**: criação de dashboards interativos, KPIs, relatórios dinâmicos e monitoramento de desempenho analítico;
+- **Excel Intermediário**: gestão e automação de planilhas operacionais, análise de dados e integração com sistemas em Python;
+- **MATLAB / Octave Intermediário**: aplicação em modelagem matemática e computacional;
+- **Inglês Avançado**: leitura técnica fluente, escrita acadêmica e comunicação profissional.
 
-**Especializações técnicas**:
-- Modelagem estatística e análise de variância
-- Machine Learning (regressão multivariada, tuning, validação)
-- Planejamento experimental e simulação computacional
-- Comunicação de resultados técnicos para públicos diversos
+#### 🔹 Principais Habilidades 🔹
+
+- Implementação e otimização de **modelos preditivos de Machine Learning**;
+- Desenvolvimento de **sistemas automatizados de tratamento e ingestão de dados**;
+- Condução de **comparativos estatísticos**, testes de hipótese, análises multivariadas e validação de resultados;
+- **Visualização de dados** e construção de **painéis interativos** para acompanhamento e controle de processos;
+- **Design de Experimentos (DoE)** aplicado à otimização de processos industriais e laboratoriais;
+- **Automação de fluxos de trabalho**, com foco em confiabilidade, rastreabilidade e robustez dos dados;
+- Excelente **comunicação técnica**, domínio de apresentações e boa oratória para exposição de resultados a públicos diversos.
+
+#### 🔹 Competências Gerais 🔹
+
+- Pensamento analítico, foco em resultados e resolução de problemas;
+- Facilidade para trabalho em equipe, colaboração e empatia profissional;
+- Organização, autonomia, flexibilidade e proatividade;
+- Rápido aprendizado e adaptabilidade a novos contextos e tecnologias.
 
 ---
 
 ## 🎯 Interesses e objetivos
 
-- Aplicar ciência de dados para resolver problemas reais, com forte base matemática e estatística
-- Atuar em projetos interdisciplinares que integrem matemática, engenharia e programação
-- Desenvolver soluções com impacto prático, clareza analítica e solidez conceitual
-- Ampliar o domínio em inteligência artificial e redes neurais aplicadas
+Busco me consolidar como um **especialista em Ciência de Dados aplicada aos negócios**, combinando fundamentos matemáticos e estatísticos com soluções computacionais escaláveis.
+
+Atualmente, estou me desenvolvendo nas áreas de:
+
+- **Machine Learning prático** e pipelines de modelagem preditiva;
+- **Análise e visualização de dados** intuitiva e técnica, orientada à tomada de decisão;
+- **Regressão multivariada** e modelagem estatística aplicada;
+- **Big Data**, engenharia de dados e organização em larga escala;
+- **Controle de processos e sistemas**, com suporte analítico em tempo real;
+- **Otimização de fluxos e avaliação de desempenho** via métodos quantitativos e experimentais;
+- **Redes neurais e inteligência artificial**, com estudo profundo em métodos de treinamento.
+
+---
+
+## 💚 Pessoal
+
+A matemática não é a única linguagem que me cativa e desperta o interesse. A escrita é minha maior paixão fora do âmbito profissional. Se meu trabalho é dar calor aos números frios, meu amor é mergulhar na incandescência das letras.
+
+Escrevo sobre tudo aquilo que me enche os olhos:
+
+- **Análises críticas e resenhas literárias**;
+- **Textos futebolísticos**;
+- **Análises musicais**;
+- **Reflexões pessoais**.
+
+✍️ [Meu blog no WordPress](https://prismadaalma.wordpress.com/)
 
 <!--
 **carlossventura/carlossventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
